@@ -1,1 +1,1 @@
-# Lean-Git
+# Learn Git
